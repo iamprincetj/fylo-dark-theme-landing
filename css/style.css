@@ -588,6 +588,7 @@ footer .access .input-container p{
     margin: 0;
     margin-top: 7em;
   }
+
   .footer-extra > div {
     display: flex;
     justify-content: space-between;
@@ -609,13 +610,11 @@ footer .access .input-container p{
   }
 
   .contact-container {
-    width: 27%;
+    width: 35%;
     align-self: flex-end;
   }
 
   .footer-nav {
-    margin-top: 4.5em;
-    align-self: flex-end;
   }
 
   .footer-nav ul {
